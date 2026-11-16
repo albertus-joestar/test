@@ -1,4 +1,4 @@
 <<?php 
 	echo "hello world";
-	echo "Fitur Register";
+	echo "Fitur Register ubah";
  ?>
