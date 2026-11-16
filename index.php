@@ -1,4 +1,6 @@
 <<?php 
 	echo "hello world";
-	echo "Fitur Register ubah";
+	echo "Fitur Register test";
+	echo "Test";
+
  ?>
